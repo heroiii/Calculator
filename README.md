@@ -1,3 +1,3 @@
 # Calculator
-Scientific calculator by Python 
-It's my first program, written by python
+Scientific calculator with Python 
+It's my first program, written with python
